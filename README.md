@@ -26,6 +26,20 @@ Professional acoustic drum samples (Tama Superstar)
 - Metal/Rock drum kit style
 - Originally recorded in 2010
 
+
+
+  **Modifications:**
+- Original: 16-channel WAV files (~2.4GB) for multi-mic mixing
+- Modified: Extracted stereo (channels 0-1: AmbL/AmbR) for direct playback (~300MB)
+- Files were compressed and uploaded here.
+
+**Conversion command used:**
+```bash
+find . -name "*.wav" -exec sh -c '
+    temp=$(mktemp).wav
+    ffmpeg -y -i "$1" -af "pan=stereo|c0=c0|c1=c1" "$temp" 2>/dev/null && mv "$temp" "$1"
+' _ {} \;
+
 ---
 
 ## 📜 Licenses
