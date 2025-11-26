@@ -39,7 +39,7 @@ find . -name "*.wav" -exec sh -c '
     temp=$(mktemp).wav
     ffmpeg -y -i "$1" -af "pan=stereo|c0=c0|c1=c1" "$temp" 2>/dev/null && mv "$temp" "$1"
 ' _ {} \;
-
+```
 ---
 
 ## 📜 Licenses
