@@ -1,156 +1,63 @@
-SALAMANDER DRUMKIT - CREDITS AND ATTRIBUTION
+================================================================================
+                        DRUMGROOVEPRO DRUM SAMPLES
+                            CREDITS & ATTRIBUTION
+================================================================================
 
-==============================================================================
-ORIGINAL AUTHOR
-==============================================================================
+This file contains attribution information for all drum samples used in
+DrumGroovePro. Please retain this file when redistributing the samples.
 
-Alexander Holm
-http://freepats.zenvoid.org/
+================================================================================
+SALAMANDER DRUMKIT
+================================================================================
 
-Recording Date: 2012
-Original Release: February 2012
+Original Creator:    Alexander Holm
+Year:                2012
+License:             Creative Commons Attribution 3.0 Unported (CC-BY 3.0)
 
-==============================================================================
-DESCRIPTION
-==============================================================================
+Source:              http://freepats.zenvoid.org/Percussion/salamander-drumkit.html
+Website:             https://sfzinstruments.github.io/drums/salamander/
 
-The Salamander Drumkit is a high-quality, professionally recorded acoustic 
-drum sample library featuring:
+Description:
+The Salamander Drumkit is a professional acoustic drum sample library featuring
+over 400 WAV files at 44.1kHz/16-bit. It includes multiple velocity layers and
+round-robin variations for realistic drum performance.
 
-- Complete drum kit with multiple velocity layers
-- Round-robin samples for natural variation
-- Overhead microphone perspective
-- Clean, studio-quality recordings
-- Multiple articulations per drum
+Attribution:
+"Salamander Drumkit by Alexander Holm, licensed under CC-BY 3.0"
 
-Instruments included:
-- Kick drums (2 variations)
-- Snare drums (2 variations with snares on/off)
-- Hi-hats (closed, semi-open, open, foot stomps)
-- Toms (high, low)
-- Cymbals (crashes, rides, chinas, splashes)
-- Percussion (cowbell, bell chimes)
+================================================================================
+MULDJORDKIT
+================================================================================
 
-==============================================================================
-RECORDING DETAILS
-==============================================================================
+Original Creator:    Lars Muldjord
+Year Recorded:       2010
+License:             Creative Commons Attribution 4.0 International (CC-BY 4.0)
 
-Format: WAV (44.1kHz, 16-bit)
-Microphone Setup: Overhead stereo pair
-Velocity Layers: Multiple (P, MP, F, FF)
-Round-Robin Samples: Up to 20 variations per articulation
-Total Sample Count: ~400 WAV files
-Total Size: ~500MB
+Source:              https://drumgizmo.org/wiki/doku.php?id=kits:muldjordkit
+Website:             http://www.muldjord.com
 
-==============================================================================
-LICENSE
-==============================================================================
+Description:
+The MuldjordKit is a Tama Superstar drumkit originally sampled during the
+recording sessions for the Sepulchrum debut album "The Gardens of Necropolis".
+This is a metal/rock oriented kit with 16 channel multi-mic recordings,
+multiple velocity layers, and round-robin variations.
 
-Creative Commons Attribution 3.0 Unported (CC-BY 3.0)
-https://creativecommons.org/licenses/by/3.0/
+Attribution (as per January 2021):
+"Drum samples provided by DrumGizmo.org"
 
-This license allows:
-✓ Commercial use
-✓ Modification
-✓ Distribution
-✓ Private use
+Note: This attribution should appear in album credits or similar liner notes.
+In cases where album credits aren't available, attribution may be omitted.
 
-Required:
-★ Attribution to Alexander Holm
-★ Include license information
-★ State changes if modified
+================================================================================
+DRUMGROOVEPRO APPLICATION
+================================================================================
 
-==============================================================================
-ATTRIBUTION EXAMPLES
-==============================================================================
+DrumGroovePro integrates these sample libraries under their respective
+Creative Commons licenses. All original sample creators retain their rights
+to their work.
 
-When using in your project, include ONE of these attributions:
+For questions about licensing or attribution, please refer to:
+- CC-BY 3.0: https://creativecommons.org/licenses/by/3.0/
+- CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
-Minimal (in app/software):
-"Drum samples: Salamander Drumkit by Alexander Holm (CC-BY 3.0)"
-
-Standard (in documentation):
-"This software includes drum samples from the Salamander Drumkit created 
-by Alexander Holm. Licensed under Creative Commons Attribution 3.0 Unported.
-https://sfzinstruments.github.io/drums/salamander/"
-
-Full (in credits file):
-"Salamander Drumkit
-Created by: Alexander Holm
-License: Creative Commons Attribution 3.0 Unported (CC-BY 3.0)
-Source: http://freepats.zenvoid.org/Percussion/salamander-drumkit.html
-Website: https://sfzinstruments.github.io/drums/salamander/
-Used in accordance with CC-BY 3.0 license terms."
-
-==============================================================================
-MODIFICATIONS MADE (If Applicable)
-==============================================================================
-
-If you have modified the samples, document changes here:
-
-[X] No modifications - samples used as-is
-[ ] Converted format: [describe conversion]
-[ ] Applied processing: [describe processing]
-[ ] Resampled: [describe resampling]
-[ ] Trimmed/edited: [describe edits]
-[ ] Other: [describe changes]
-
-==============================================================================
-ORIGINAL SOURCE
-==============================================================================
-
-Official Website: https://sfzinstruments.github.io/drums/salamander/
-Download: http://freepats.zenvoid.org/Percussion/salamander-drumkit.html
-
-Alternative Mirrors:
-- SFZ Instruments GitHub: https://github.com/sfzinstruments/
-
-==============================================================================
-TECHNICAL NOTES
-==============================================================================
-
-Sample Format: WAV (PCM)
-Bit Depth: 16-bit
-Sample Rate: 44,100 Hz
-Channels: Mono (per sample)
-Mapping Format: SFZ
-
-The samples are organized with overhead microphone perspective (OH folder).
-Each drum has multiple velocity layers and round-robin variations for 
-realistic playback.
-
-Velocity Layer Abbreviations:
-- FF = Fortissimo (very loud, velocity 110-127)
-- F = Forte (loud, velocity 85-109)
-- MP = Mezzo-Piano (medium-soft, velocity 43-84)
-- P = Piano (soft, velocity 1-42)
-
-==============================================================================
-CONTACT
-==============================================================================
-
-For issues with the Salamander Drumkit samples:
-- Original Author: Alexander Holm
-- Community: https://github.com/sfzinstruments/
-
-For issues with DrumGroovePro implementation:
-- Project: https://github.com/InToEtherion/DrumGroovePro
-- Developer: InToEtherion
-
-==============================================================================
-ADDITIONAL ACKNOWLEDGMENTS
-==============================================================================
-
-Thank you to Alexander Holm for creating and releasing this high-quality 
-drum sample library under a permissive Creative Commons license, making it 
-available for use in commercial and non-commercial projects worldwide.
-
-Thank you to the SFZ Instruments community for maintaining and hosting the 
-Salamander Drumkit distribution.
-
-==============================================================================
-
-This CREDITS.txt file is part of the attribution requirement for using the 
-Salamander Drumkit under the CC-BY 3.0 license.
-
-Last Updated: November 2025
+================================================================================
