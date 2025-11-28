@@ -6,7 +6,7 @@ This repository contains the drum kit samples used in DrumGroovePro.
 
 ---
 
-## 📦 Contents
+## Contents
 
 ### Salamander Drumkit
 Professional acoustic drum samples
@@ -42,7 +42,7 @@ find . -name "*.wav" -exec sh -c '
 ```
 ---
 
-## 📜 Licenses
+## Licenses
 
 ### Salamander Drumkit
 Licensed under **Creative Commons Attribution 3.0 Unported (CC-BY 3.0)**
@@ -64,7 +64,7 @@ See `LICENSE.txt` for full license texts.
 
 ---
 
-## 👤 Credits
+## Credits
 
 ### Salamander Drumkit
 - **Original Creator:** Alexander Holm
